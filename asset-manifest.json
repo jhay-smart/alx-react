@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/alx-react/static/css/main.901da537.css",
+    "main.js": "/alx-react/static/js/main.f5ea0548.js",
+    "static/js/453.59b8a61b.chunk.js": "/alx-react/static/js/453.59b8a61b.chunk.js",
+    "static/media/holberto_logo.jpg": "/alx-react/static/media/holberto_logo.24bab5d633e36ca8d17e.jpg",
+    "index.html": "/alx-react/index.html",
+    "main.901da537.css.map": "/alx-react/static/css/main.901da537.css.map",
+    "main.f5ea0548.js.map": "/alx-react/static/js/main.f5ea0548.js.map",
+    "453.59b8a61b.chunk.js.map": "/alx-react/static/js/453.59b8a61b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.901da537.css",
+    "static/js/main.f5ea0548.js"
+  ]
+}
