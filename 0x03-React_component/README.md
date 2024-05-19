@@ -1,1 +1,1 @@
-This is an introduction to react props and arranging components
+## 0x03. React component
